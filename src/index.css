@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&family=Quicksand:wght@700&family=Roboto:ital,wght@0,100;0,400;0,700;1,300&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: sans-serif;
+  }
+  
+
+  body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #242a28;
+    background: radial-gradient(#303b37, #1a1f1d);
+    color: #e1eeeb;
+    height: 100%;
+    /* align-items: center; */
+    text-align: center;
+    /* box-sizing: border-box; */
+  }

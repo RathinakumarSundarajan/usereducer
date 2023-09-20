@@ -1,0 +1,12 @@
+.card{
+    border-radius: 7rem;
+    max-width: 50rem;
+    height: 30%;
+    background-color: #00ffff;
+    align-items: flex;
+    margin: 2rem auto;
+    padding: 1rem;
+    table-layout: fixed;
+    color: rgb(8, 1, 23);
+    /* font-family: 'Kalam', cursive; */
+}
